@@ -1,0 +1,13 @@
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\bin\Debug\netcoreapp3.1\Loopar.exe
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\bin\Debug\netcoreapp3.1\Loopar.deps.json
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\bin\Debug\netcoreapp3.1\Loopar.runtimeconfig.json
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\bin\Debug\netcoreapp3.1\Loopar.runtimeconfig.dev.json
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\bin\Debug\netcoreapp3.1\Loopar.dll
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\bin\Debug\netcoreapp3.1\Loopar.pdb
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\obj\Debug\netcoreapp3.1\Loopar.AssemblyInfoInputs.cache
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\obj\Debug\netcoreapp3.1\Loopar.AssemblyInfo.cs
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\obj\Debug\netcoreapp3.1\Loopar.csproj.CoreCompileInputs.cache
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\obj\Debug\netcoreapp3.1\Loopar.dll
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\obj\Debug\netcoreapp3.1\Loopar.pdb
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\obj\Debug\netcoreapp3.1\Loopar.genruntimeconfig.cache
+C:\Users\pedram.khanzadenvak\Documents\GitHub\PROG2\Loopar\Loopar\obj\Debug\netcoreapp3.1\Loopar.csprojAssemblyReference.cache
