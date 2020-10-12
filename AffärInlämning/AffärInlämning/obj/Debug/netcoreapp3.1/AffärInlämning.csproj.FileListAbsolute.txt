@@ -1,0 +1,13 @@
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\bin\Debug\netcoreapp3.1\AffärInlämning.exe
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\bin\Debug\netcoreapp3.1\AffärInlämning.deps.json
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\bin\Debug\netcoreapp3.1\AffärInlämning.runtimeconfig.json
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\bin\Debug\netcoreapp3.1\AffärInlämning.runtimeconfig.dev.json
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\bin\Debug\netcoreapp3.1\AffärInlämning.dll
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\bin\Debug\netcoreapp3.1\AffärInlämning.pdb
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\obj\Debug\netcoreapp3.1\AffärInlämning.csprojAssemblyReference.cache
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\obj\Debug\netcoreapp3.1\AffärInlämning.AssemblyInfoInputs.cache
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\obj\Debug\netcoreapp3.1\AffärInlämning.AssemblyInfo.cs
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\obj\Debug\netcoreapp3.1\AffärInlämning.csproj.CoreCompileInputs.cache
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\obj\Debug\netcoreapp3.1\AffärInlämning.dll
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\obj\Debug\netcoreapp3.1\AffärInlämning.pdb
+C:\Users\pedram.khanzadenvak\source\repos\AffärInlämning\AffärInlämning\obj\Debug\netcoreapp3.1\AffärInlämning.genruntimeconfig.cache
